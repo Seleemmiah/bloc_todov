@@ -11,7 +11,7 @@ class TodoScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: const Text('BLoC To-Do App')),
+      appBar: AppBar(title: const Text('BLoC App')),
       body: Column(
         children: [
           // Input Field
